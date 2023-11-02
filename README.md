@@ -19,4 +19,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 - [Instagram](https://www.instagram.com/biel_slv15/)<br/>
 - [ You tube ](https://www.youtube.com/channel/UCAXz2PUp61TTXk_Uk5F-kTQ)<br/>
-- [(juliogabriel642@gmail.com)<br/>
+- [juliogabriel642@gmail.com<br/>
