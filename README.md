@@ -31,4 +31,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [ You tube ](https://www.youtube.com/channel/UCAXz2PUp61TTXk_Uk5F-kTQ)<br/>
 - [ juliogabriel642@gmail.com](Google)<br/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
 ![snake gif](https://github.com/Gabrielscriptt/Gabrielscriptt/blob/output/github-contribution-grid-snake.svg)
