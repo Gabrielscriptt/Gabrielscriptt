@@ -7,6 +7,8 @@
 
 ## Tecnologias que eu uso no meu dia
 
+![snake gif](https://github.com/Gabrielscriptt/Gabrielscriptt/blob/output/github-contribution-grid-snake.svg)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,4 +23,4 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br/>
 
-![snake gif](https://github.com/Gabrielscriptt/Gabrielscriptt/blob/output/github-contribution-grid-snake.svg)
+
